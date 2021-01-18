@@ -2,7 +2,7 @@
 
 ## What is this?
 
-The work here is a representation of the work I did in 2019. After proving myself in [2018](https://github.com/Lwachira/2018-Work) with the work I did. I had the opportunity to work on other problems the business had. 
+The work here is a representation of the work I did in 2019. After proving myself in [2018](https://github.com/Lwachira/2018-Work-History) with the work I did. I had the opportunity to work on other problems the business had. 
 
 I have four projects that used by the company internally and three Projects that did not see the light of day to complicated business reason and no failure on my part.
 
