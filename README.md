@@ -52,7 +52,7 @@ Similar to the [Dynamics Logger](#dynamics-logger) this worked by reading emails
 
 ## SiebelContractLogger
 
-The application built and the team (myself and manager) were ready to launch, then one of the execs got scared, made a whole thing about the risk and said they will get back to us, until to this day we are still waiting...
+The application built and the team (myself and manager) ready to launch, then one of the execs got scared, made a whole thing about the risk and said they will get back to us, until to this day we are still waiting...
 
 ## SiebelExchangeLogger
 
