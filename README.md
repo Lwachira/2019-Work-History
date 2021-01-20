@@ -48,6 +48,8 @@ Similar to the [Dynamics Logger](#dynamics-logger) this worked by reading emails
 
 # SiebelExtraction
 
+This was a simple Extract service. Using what I had learnt from SiebelCRM365, I built a service that extracts data from Siebel/Oracle CRM and dumps it into a database nightly.
+
 # Failed Projects
 
 ## SiebelContractLogger
